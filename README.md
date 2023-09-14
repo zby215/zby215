@@ -15,8 +15,6 @@
     <a href="https://space.bilibili.com/665780080"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=zby215" alt="访客统计" />
   </div>
 </div>
 
