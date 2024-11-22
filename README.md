@@ -29,12 +29,11 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<p>&emsp;&emsp;大家好，我是Boyu Zhang Bob</p>
-<p>&emsp;&emsp;目前就读于华威大学</p>
-<p>&emsp;&emsp;热爱计算机和电子电气工程，励志成为一名资深全栈工程师!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-<p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
+<p>&emsp;&emsp; Hello everyone, I am Boyu Zhang Bob</p>
+<p>&emsp;&emsp; Currently studying Electronic and Electrical Engineering at University of Warwick</p>
+<p>&emsp;&emsp; I love computer and electronic and electrical engineering, and aspire to become a senior full-stack engineer!</p>
+<p>&emsp;&emsp; We are making the world a better place. By reusing and extending the code to build a perfect system.</p>
+<p>&emsp;&emsp; There will be a time to ride the wind and waves, and set sail to cross the vast ocean. I started too late, but it's not too late. Spring flowers and autumn fruits, hard work will definitely pay off, a poor student is quietly transforming...</p>
 
 
 
