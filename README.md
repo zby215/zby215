@@ -29,11 +29,11 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<p>&emsp;&emsp;Hello everyone, I am Boyu Zhang Bob</p>
-<p>&emsp;&emsp;Currently studying Electronic and Electrical Engineering at University of Warwick</p>
-<p>&emsp;&emsp;I love computer and electronic and electrical engineering, and aspire to become a senior full-stack engineer!</p>
-<p>&emsp;&emsp;We are making the world a better place. By reusing and extending the code to build a perfect system.</p>
-<p>&emsp;&emsp;There will be a time to ride the wind and waves, and set sail to cross the vast ocean. I started too late, but it's not too late. Spring flowers and autumn fruits, hard work will definitely pay off, a poor student is quietly transforming...</p>
+<p>Hello everyone, I am Boyu Zhang Bob</p>
+<p>Currently studying Electronic and Electrical Engineering at University of Warwick</p>
+<p>I love computer and electronic and electrical engineering and aspire to become a senior full-stack engineer!</p>
+<p>We are making the world a better place. By reusing and extending the code to build a perfect system.</p>
+<p>There will be a time to ride the wind and waves and set sail to cross the vast ocean. I started too late, but it's not too late. Spring flowers and autumn fruits, hard work will definitely pay off, a poor student is quietly transforming...</p>
 
 
 
